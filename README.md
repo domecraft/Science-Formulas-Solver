@@ -6,7 +6,8 @@
 ####Feel free to fork this project and use the scripts for yourself if you want to.
 #####Here are the contributors:
 
-* **Christopher Durr** - _Lead Programmer_ [(Here is my website)][1]
+* **Christopher Durr** - _Lead Programmer_ 
+  * [(Here is my website)][1]
 * **Richard Gavia** - _Assistant Programmer_
 
 [1]: christopherdurr.weebly.com
