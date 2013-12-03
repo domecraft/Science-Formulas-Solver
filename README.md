@@ -1,7 +1,7 @@
 #**_Science-Formulas-Solver_**
 
 
-####This repository is a list of _python scripts_ that can be used in order to solve different formulas for you. 
+####This repository is a list of programs that can be used in order to solve different formulas for you. 
 ####I created this repository in order to learn more about python and the programming language. 
 ####Feel free to fork this project and use the scripts for yourself if you want to.
 #####Here are the contributors:  
