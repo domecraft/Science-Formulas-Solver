@@ -1,6 +1,5 @@
 #This program will solve for the powers and loops through the range that the user enters.
 
-range = []
 puts "Enter the minimum value of the loop"
 min = gets.chomp
 min = min.to_i
