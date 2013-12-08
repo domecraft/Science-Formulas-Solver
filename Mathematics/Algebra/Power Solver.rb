@@ -10,6 +10,6 @@ puts "Enter the power you want to apply to each number"
 power = gets.chomp
 power = power.to_i
 (min..max).each do|x| 
-    print "#{x}:", x**power, " "
+    print "#{x}: ", x**power, " "
     puts ""
 end
