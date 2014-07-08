@@ -1,3 +1,5 @@
+//This program will solve the determinant of a matrix
+
 #include <iostream>
 using namespace std;
 void getInput(){
