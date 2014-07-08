@@ -9,7 +9,6 @@ else:
     if b<0:
         print"B cannot be less than zero"
     else:
-        c=math.sqrt((a**2)+(b**2))
-        c=str(c)
+        c=str(math.sqrt((a**2)+(b**2)))
         print "The length of side C is: "+ c + " " + unit + "."
     
